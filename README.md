@@ -1,3 +1,3 @@
 # Primeiro desafio Dio
 
-Projeto da Dio sobre Git/Github
+Projeto da Dio sobre Git/Github.
