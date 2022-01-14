@@ -1,2 +1,3 @@
-# primeiro-desafio-dio
-Desafio da Dio sobre Git/Github
+# Primeiro desafio Dio
+
+Projeto da Dio sobre Git/Github
