@@ -1,0 +1,14 @@
+Tipos de Estruturas
+- Vetor: são auxiliares quando há muitas variavés do mesmo tipo de algoritimo;
+- Matriz: pode conter vário vetores (multidimensional [coluna, linha]);
+- Registro: pode armazenar variavés de vários tipos;
+- Listas: armazena dados em ordem especificas e ela pode ser ajustada
+  *Lista ligada: existe nós e eles sabem o valor que será armazenado e qual será o próximo
+  *Lista duplamente ligadas: são biodericionais, além de saber qual será o próximo também sabe o anterior
+-Pilhas: é uma coleção de elementos, ele só pode ser lido ou removidos uma vez;
+  *UEPS: primeiro a sair é o último elemento inserido
+  *PEPS: primeiro a sair é o primeiro elemento inserido
+-Filas: admite remoção e inserção de elementos com a seguinte regra ' primeiro a sair é o primeiro inserido;
+-Árvores: são elementos organizados de forma hierarquica, possui raiz e seus subordinados;
+-Tabela Hash: associa chave de pesquisa a valores;
+-Grafo: são estruturas que permitem programar a relação entre objetos; 
